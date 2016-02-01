@@ -15,6 +15,7 @@
 		ED3739461C5EFA280019ADD2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED3739441C5EFA280019ADD2 /* LaunchScreen.storyboard */; };
 		ED3739511C5EFA290019ADD2 /* Hello_WorldTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3739501C5EFA290019ADD2 /* Hello_WorldTests.swift */; };
 		ED37395C1C5EFA290019ADD2 /* Hello_WorldUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED37395B1C5EFA290019ADD2 /* Hello_WorldUITests.swift */; };
+		ED37396A1C5EFE200019ADD2 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED3739691C5EFE200019ADD2 /* Launch Screen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		ED3739571C5EFA290019ADD2 /* Hello WorldUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hello WorldUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED37395B1C5EFA290019ADD2 /* Hello_WorldUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hello_WorldUITests.swift; sourceTree = "<group>"; };
 		ED37395D1C5EFA290019ADD2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ED3739691C5EFE200019ADD2 /* Launch Screen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = "Launch Screen.storyboard"; path = "../Launch Screen.storyboard"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				ED3739441C5EFA280019ADD2 /* LaunchScreen.storyboard */,
 				ED3739471C5EFA280019ADD2 /* Info.plist */,
 				ED37393F1C5EFA280019ADD2 /* Hello_World.xcdatamodeld */,
+				ED3739691C5EFE200019ADD2 /* Launch Screen.storyboard */,
 			);
 			path = "Hello World";
 			sourceTree = "<group>";
@@ -234,6 +237,7 @@
 			files = (
 				ED3739461C5EFA280019ADD2 /* LaunchScreen.storyboard in Resources */,
 				ED3739431C5EFA280019ADD2 /* Assets.xcassets in Resources */,
+				ED37396A1C5EFE200019ADD2 /* Launch Screen.storyboard in Resources */,
 				ED37393E1C5EFA280019ADD2 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
